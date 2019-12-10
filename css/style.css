@@ -1,0 +1,46 @@
+.index {
+  background-color:#0de062;
+}
+  center {
+  font-size:95px;
+  font-family: 'Shadows Into Light', cursive;
+  font-style:italic;
+  }
+  h3 {
+  font-size:40px;
+  display:inline;
+  }
+  hr {
+    border-color: black;
+  }
+  .calendar-link {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color: blue;
+    float: center;
+    display:inline;
+    margin-top:0;
+    padding-top:0;
+    text-align: center;
+  }
+  ul {
+    font-size:20px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .link-to-page {
+    font-size:40px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .links {
+    font-size:95px;
+    font-family: 'Shadows Into Light', cursive;
+    font-style:italic;
+    text-align: center;
+  }
+  .portfolio-body {
+    background-color: #0db9e0
+  }
+  .link-des {
+    font-size:40px;
+    font-family: 'Indie Flower', cursive;
+  }
